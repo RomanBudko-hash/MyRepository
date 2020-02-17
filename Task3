@@ -1,0 +1,23 @@
+import java.util.LinkedList;
+import java.util.List;
+import java.util.StringTokenizer;
+
+public class Task3 {
+    public static void main(String[] args) {
+            String s = "мама мыла раму рама мыла маму";
+            StringTokenizer st = new StringTokenizer(s, " ");
+            List<String> list = new LinkedList<>();
+
+            while (st.hasMoreTokens()) {
+                String buf = st.nextToken();
+
+                if (!list.contains(buf)) {
+                    list.add(buf);
+                }
+            }
+
+            for (String i : list) System.err.print(i + " ");
+    }
+}
+
+
