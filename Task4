@@ -1,0 +1,11 @@
+public class Task4 {
+    public static void main (String [] args){
+        System.out.print(methodOfSearchFactorial(12));
+    }
+    public static int methodOfSearchFactorial(int x){
+        if (x == 0 || x == 1){
+            return 1;
+        }
+        return x*methodOfSearchFactorial(x - 1);
+    }
+}
