@@ -1,0 +1,24 @@
+import java.util.Arrays;
+
+public class Task1 {
+    public static void main(String[] args) {
+        int[] arr = {2,4,5,1,5,1,2,9,10};
+        bubbleSorter(arr);
+    }
+
+    public static void bubbleSorter(int[] array) {
+        boolean needIteration = false;
+        while (!needIteration) {
+            needIteration = true;
+            for (int i = 1; i < array.length; i++) {
+                    if (array[i] < array[i-1]) {
+                        int temp = array[i];
+                        array[i] = array[i-1];
+                        array[i-1] = temp;
+                        needIteration = false;
+                    }
+            }
+        }
+        System.out.print(Arrays.toString(array));
+    }
+}
