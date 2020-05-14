@@ -6,7 +6,7 @@ namespace SomethingProject
     {
         static void Main(string[] args)
         {
-            int[] dateBaseOfClient = new int[15];
+            int[] dateBaseOfClient = new int[50];
 
             NewAndLastClass nalc = new NewAndLastClass();
 

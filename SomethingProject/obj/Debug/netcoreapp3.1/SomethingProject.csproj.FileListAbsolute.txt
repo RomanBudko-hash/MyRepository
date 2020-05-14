@@ -11,3 +11,16 @@ C:\Users\Ирина\source\repos\SomethingProject\obj\Debug\netcoreapp3.1\Someth
 C:\Users\Ирина\source\repos\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.dll
 C:\Users\Ирина\source\repos\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.pdb
 C:\Users\Ирина\source\repos\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.genruntimeconfig.cache
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.exe
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.deps.json
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.runtimeconfig.json
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.runtimeconfig.dev.json
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.dll
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\bin\Debug\netcoreapp3.1\SomethingProject.pdb
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.csprojAssemblyReference.cache
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.AssemblyInfoInputs.cache
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.AssemblyInfo.cs
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.dll
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.pdb
+C:\Users\Ирина\Source\Repos\MyRepository\SomethingProject\obj\Debug\netcoreapp3.1\SomethingProject.genruntimeconfig.cache
