@@ -24,4 +24,3 @@ namespace SomethingProject
         }       
     }
 }
-// комментарий
