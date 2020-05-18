@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ирина\\Source\\Repos\\MyRepository\\SomethingProject\\SomethingProject.csproj",
+      "projectUniqueName": "C:\\Users\\Ирина\\source\\repos\\MyRepository\\SomethingProject\\SomethingProject.csproj",
       "projectName": "SomethingProject",
-      "projectPath": "C:\\Users\\Ирина\\Source\\Repos\\MyRepository\\SomethingProject\\SomethingProject.csproj",
+      "projectPath": "C:\\Users\\Ирина\\source\\repos\\MyRepository\\SomethingProject\\SomethingProject.csproj",
       "packagesPath": "C:\\Users\\Ирина\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ирина\\Source\\Repos\\MyRepository\\SomethingProject\\obj\\",
+      "outputPath": "C:\\Users\\Ирина\\source\\repos\\MyRepository\\SomethingProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ирина\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
